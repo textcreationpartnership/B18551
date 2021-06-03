@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case concerning the election of Sir Christopher Calthorp, knight of the Bath, and Sir Neville Catelyn, knight, to serve in this present Parliament, as knights of the shire for the county of Norfolk humbly offered to the consideration of the honourable the knights, citizens, and burgesses in Parliament assembled.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18551</idno><idno type="EEBO-CITATION">19718550</idno>
+  <idno type="VID">205591</idno>
+  <idno type="EEBO-PROQUEST">2240859945</idno>
+  
+            <idno type="STC">Wing C863</idno>
+            <idno type="OCLC">19718550</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case concerning the election of Sir Christopher Calthorp, knight of the Bath, and Sir Neville Catelyn, knight, to serve in this present Parliament, as knights of the shire for the county of Norfolk humbly offered to the consideration of the honourable the knights, citizens, and burgesses in Parliament assembled.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of imprint suggested by Wing.</note>
+                  <note>Imperfect: cropped at bottom with some loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Contested elections.</term>
+               <term type="topical_term">Elections --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:205591:1"/>
+            <head>The CASE concerning the Election of Sir <hi>Christopher Calthorp,</hi> Knight of the <hi>Bath,</hi> and Sir <hi>Neville Catelyn,</hi> Knight, to serve in this present PARLIAMENT, as Knights of the Shire for the County of <hi>Norfolk.</hi>
+            </head>
+            <head type="sub">Humbly offered to the Consideration of the Honourable the Knights, Citi<g ref="char:EOLhyphen"/>zens, and Burgesses in Parliament assembled.</head>
+            <p>HIS Majesties Royal Proclamation being issued out for calling of a Parliament, and Writs pursuant thereunto, sent to the Sheriffs of every County, to proceed to Elect Members to serve in that Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The Gentry and Freeholders of the said County, to prevent trou<g ref="char:EOLhyphen"/>ble and charge at the Election, met together to agree of two Persons fit to serve them, and did at such meeting resolve upon the said Sir <hi>Christopher</hi> and Sir <hi>Neville,</hi> whom they invited and desired to serve them, giving them assurance that no other person would stand in competition, and that they should be chosen without oppo<g ref="char:EOLhyphen"/>sition; whereupon Sir <hi>Christopher</hi> and Sir <hi>Neville</hi> accepted their kindness, and re<g ref="char:EOLhyphen"/>solved to serve them.</p>
+            <p>
+               <hi>Febr.</hi> 10. Was the day of the Election, when the County Court being held at the Castle of <hi>Norwich,</hi> the Sheriff caused the Writ to be read, and immediately proceeded to Election.</p>
+            <p>The Writ was read about ten of the Clock.</p>
+            <p>Sir <hi>Christopher</hi> and Sir <hi>Neville,</hi> with the far greatest part of the Freeholders were present, and were the only persons that appear'd to stand, till about twelve of the Clock. So that the High Sheriff was just declaring them Elected, but was hindred by one Mr. <hi>Hurn,</hi> who with a small party of the Freeholders then appea<g ref="char:EOLhyphen"/>red, and cryed up Sir <hi>John Hobart,</hi> whose name till then was not mentioned, he ha<g ref="char:EOLhyphen"/>ving declared he would not stand.</p>
+            <p>Mr. <hi>Hurn</hi> demanded the Poll, which was granted, and very fairly carried on till the end thereof, by Sir <hi>Christopher</hi> and Sir <hi>Neville;</hi> but many rude, illegal and exorbitant acts were done by Sir <hi>John</hi> his Party: Divines beaten, the Sheriff assaul<g ref="char:EOLhyphen"/>ted, the Staff of his Office broken, his Life endangered.</p>
+            <p>The Poll continued so long as there were any to Poll, the last hour and half of the Poll there were not above twenty Polled for Sir <hi>John.</hi>
+            </p>
+            <p>The Poll not closed till several Proclamations made for all Freeholders that would, to come and be Polled.</p>
+            <p>Clerks and Judges of the Poll were appointed on both sides.</p>
+            <p>When there were no more to be Polled, the Poll was closed, and the books cast up, in the presence of divers of Sir <hi>John</hi>'s party, whereby it appeared that Sir <hi>Christopher</hi> and Sir <hi>Neville,</hi> had each of them five hundred and nine voices more than Sir <hi>John,</hi> howbeit Sir <hi>John</hi> his party had used many undue means to procure him Votes, and had at a by-place, a great distance from the place assigned for his Poll, Polled some hundreds which had no right to Vote in Elections.</p>
+            <p>And it is to be noted, that Sir <hi>Christopher</hi> and Sir <hi>Neville</hi> had had many hundreds more Electors Polled for them than they had, if Sir <hi>John</hi> had appeared within the time limited by the Statute for Elections, to wit betwixt nine and eleven; but he not appearing till nigh twelve, it was so confidently believed that there would be no opposition: that many of the Freeholders who would have Polled for Sir <hi>Christopher</hi> and Sir <hi>Neville,</hi> and who lived remote from the City, went homeward before Sir <hi>John Hobart,</hi> or Mr. <hi>Hurn</hi> on his behalf, appeared.</p>
+            <p>The Poll being ended, and books computed, the High Sheriff declared the Ele<g ref="char:EOLhyphen"/>ction, and returned Sir <hi>Christopher</hi> and Sir <hi>Neville,</hi> with which return, Sir <hi>John Hobart</hi>'s party were so well satisfied, that many of his Electors signed the Inden<g ref="char:EOLhyphen"/>tures, they well knowing that the Poll Books for Sir <hi>John</hi> were kept open, above half an hour after Sir <hi>Christopher</hi> and Sir <hi>Neville</hi>'s were shut, on purpose to Poll what Freeholders they could for Sir <hi>John:</hi> and that Sir <hi>John</hi> never pretended he had any more to Poll than what he had Polled, till after the books were cas<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up, and it was found he had the least Number of Electors.</p>
+            <p>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <hi>humbly s;ubmit the s;ame to this Honourable Hous;e.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
